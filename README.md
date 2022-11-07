@@ -21,10 +21,13 @@ For each test case print one line, containing one integer, indicating the number
 
 Sample Input	
 3
+
 3
 100 80 90
+
 4
 100 120 30 50
+
 4
 100 90 30 25
 

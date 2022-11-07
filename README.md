@@ -32,6 +32,7 @@ Sample Input
 100 90 30 25
 
 Sample Output
+
 1
 0
 4
